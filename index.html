@@ -20,9 +20,20 @@
 
   <script>
     // Docsify Configuration (see https://docsify.js.org/#/configuration)
-   window.$docsify = {
-  coverpage: ['/', '/zh-cn/']
-};
+ window.$docsify = {
+  coverpage: true,
+
+  // Custom file name
+  coverpage: 'cover.md',
+
+  // multiple covers
+  coverpage: ['/', '/zh-cn/'],
+
+  // multiple covers and custom file name
+  coverpage: {
+    '/': 'cover.md',
+    '/zh-cn/': 'cover.md',
+  },
 
       // Sidebar Configuration
       auto2top: true,
