@@ -1,3 +1,6 @@
-# Example Second Page
+# 第二页示例
 
-This is an example second page that will appear in the Docsify Sidebar.
+这是将出现在Docsify边栏中的第二个页面示例。
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbODExMDk5NDQzXX0=
+-->
