@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
+![logo](https://files.catbox.moe/686xm1.png)
 
 # docsify <small>3.5</small>
 
